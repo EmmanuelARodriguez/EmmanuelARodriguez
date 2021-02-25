@@ -25,7 +25,7 @@
 ---
 ### :books: Trabajos de la materia​
 
-1. :book:
+1. :book: [C0.1_IntegrarEquiposDeTrabajo](Markdown/C0.1_IntegrarEquiposDeTrabajo_RodriguezMartinezEmmanuelArturo.pdf)
 
 ---
 
