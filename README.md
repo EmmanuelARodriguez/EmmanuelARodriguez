@@ -17,7 +17,7 @@
 
 ---
 
-### :necktie: Datos del asesor de la materia
+### :eyeglasses: Datos del alumno de la materia
 
 * Nombre: Rodriguez Martinez Emmanuel Arturo
 * Num. Control: 18212261 
