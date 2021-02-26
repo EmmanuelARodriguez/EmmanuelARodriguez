@@ -26,7 +26,7 @@
 ### :books: Trabajos de la materia​
 
 1. :book: [C0.1_Integrar Equipos De Trabajo](https://github.com/EmmanuelARodriguez/Markdown/blob/master/C0.1_IntegrarEquiposDeTrabajo_RodriguezMartinezEmmanuelArturo.pdf)
-2. :book: [C1.1 Electronica Basica y Elementos](https://github.com/EmmanuelARodriguez/Markdown/blob/master/C1.1_ElectronicaBasica_y_elementos_RodriguezMartinezEmmanuelArturo.pdf)
+2. :book: [C1.1 Electronica Basica y Elementos](https://github.com/EmmanuelARodriguez/Markdown/blob/master/C1.1_ElectronicaBasica_y_elementos_RodriguezMartinezEmmanuelArturo.md)
 
 ---
 
